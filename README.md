@@ -198,6 +198,6 @@ Validated through EDA (Exploratory Data Analysis)
 Taiwo Babalola
 Lead Data & Analytics Specialist
 ABC Logistics Limited
-Email: taiwo.sap@gmail.com
+Email: tbabalola1@learner.nexford.org
 
-GitHub: [Add link]
+GitHub: https://github.com/AmazingTaiwo/BAN6800.git
