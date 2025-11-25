@@ -1,7 +1,7 @@
 # BAN6800 Data Analytics Capstone
 # Milestone 1: Business Analytics Project-Ready Dataset
 # LEANER ID: 162894
-#Submitted to Dr. Raphael Wanjiku
+# Submitted to Dr. Raphael Wanjiku
 
 🪙 1. Bronze Layer — Raw Ingestion
 📌 Purpose
